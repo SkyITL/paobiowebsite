@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pao-bio/static/css/main.e6c13ad2.css",
+    "main.js": "/pao-bio/static/js/main.87b42350.js",
+    "index.html": "/pao-bio/index.html",
+    "main.e6c13ad2.css.map": "/pao-bio/static/css/main.e6c13ad2.css.map",
+    "main.87b42350.js.map": "/pao-bio/static/js/main.87b42350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87b42350.js"
+  ]
+}
