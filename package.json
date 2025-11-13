@@ -1,5 +1,4 @@
 {
-  "homepage": "https://pao-bio.github.io/pao-bio",
   "name": "pao-bio",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +42,6 @@
     "autoprefixer": "^10.4.21",
     "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.16"
+    "tailwindcss": "^3.4.18"
   }
 }
