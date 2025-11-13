@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pao-bio/static/css/main.a02808bf.css",
-    "main.js": "/pao-bio/static/js/main.04d7119e.js",
-    "index.html": "/pao-bio/index.html",
-    "main.a02808bf.css.map": "/pao-bio/static/css/main.a02808bf.css.map",
-    "main.04d7119e.js.map": "/pao-bio/static/js/main.04d7119e.js.map"
+    "main.css": "/static/css/main.a02808bf.css",
+    "main.js": "/static/js/main.da6b833d.js",
+    "index.html": "/index.html",
+    "main.a02808bf.css.map": "/static/css/main.a02808bf.css.map",
+    "main.da6b833d.js.map": "/static/js/main.da6b833d.js.map"
   },
   "entrypoints": [
     "static/css/main.a02808bf.css",
-    "static/js/main.04d7119e.js"
+    "static/js/main.da6b833d.js"
   ]
 }
